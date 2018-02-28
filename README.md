@@ -1,2 +1,2 @@
-# Bardo---AI-Emotion-Classifier
+# Bardo - AI Emotion Classifier
 Emotion-Based Classifier for TableTop Games
