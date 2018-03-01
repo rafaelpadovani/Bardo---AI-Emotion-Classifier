@@ -13,6 +13,6 @@ Where `1` is the episode you want to test. It is important to say that episode 1
 
 The classifiers are NS, NHS, NM and NHM. They are variants of Naive Bayes classifier and you can find them separately inside the `classifiers` folder.
 
-The official dataset is located inside the `datasets` and this the basis of ou supervised learning.
+The official dataset is located inside the `datasets` and this is the basis of ou supervised learning.
 
 This work part of my master's degree and it was published ON AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment(AIIDE17). For more information see the paper: https://aaai.org/ocs/index.php/AIIDE/AIIDE17/paper/view/15909
