@@ -15,4 +15,4 @@ The classifiers are NS, NHS, NM and NHM. They are variants of Naive Bayes classi
 
 The official dataset is located inside the `datasets` and this is the basis of ou supervised learning.
 
-This work part of my master's degree and it was published ON AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment(AIIDE17). For more information see the paper: https://aaai.org/ocs/index.php/AIIDE/AIIDE17/paper/view/15909
+This work part of my master's degree and it was published on AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment(AIIDE17). For more information see the paper: https://aaai.org/ocs/index.php/AIIDE/AIIDE17/paper/view/15909
