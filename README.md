@@ -9,7 +9,7 @@ To run an example you go into /src folder and run this command on terminal:
 
 `python3 main.py 1`
 
-Where `1` is the episode you want to test. It is important to say that episode 1 is not used in training process in this case. The result will be store inside `testesNSALL` folder. There you can check the labeled text and accuracy.
+Where `1` is the episode you want to test. It is important to say that episode 1 is not used in training process. The result will be stored inside `testesNSALL` folder. There you can check the labeled text and accuracy.
 
 The classifiers are NS, NHS, NM and NHM. They are variants of Naive Bayes classifier and you can find them separately inside the `classifiers` folder.
 
